@@ -13,11 +13,17 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiloSaboA-csv&show_icons=true&hide_title=true&theme=buefy&hide_border=true&count_private=true&hide=stars" alt="CamiloSaboA-csv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSaboA-csv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Software Developer, problem solver, with over 3 years of experience in the I.T industry providing solutions and value to clients and organizations.
+### Software Developer, problem solver, with experience in the I.T. industry since 2020 providing solutions and value to clients and organizations.
 
-#### Hello world, my name is Camilo Andrés Sabogal Aristizábal and I'm a passionate self-taught developer who loves learning new things and enjoys solving problems.
+#### Hello world, my name is Camilo Andrés Sabogal Aristizábal and I'm a Explorer of new technologies, lover of collaborative environments and communities with continuous growth. Convinced that success is achieved with interdisciplinary teams. In love and enthusiast of code, software development and hardware. 
 
-#### I am a web 3.0 enthusiast, enjoy building stuff, collaborating with people from across the globe, and a good cup of coffee.
+#### Geological engineer specialized in Analytics and data science. Working hard to be a better software developer.
+
+#### Looking to connect with groups or people with whom you share passions to continue building communities and colleagues.
+
+#### I am a machine learning and development enthusiast , enjoy building stuff, collaborating with people from across the globe, and a good cup of coffee.
+
+Interests/Skills: Python, Mongo, MLOps, Spark, GIS, Solidity, Blockchain, 3D Modeling and Machine learning applied to the processing and use of Big Data.
 
 ### Langugages and Tools (familiar with but not limited to):
 
@@ -46,7 +52,7 @@
 - [Introducción a la Nube](https://platzi.com/p/DanielAgudelo/curso/2200-course/diploma/detalle/)
 -->
 
-### Feel free to Drop a '👋' on any of my socials, if you wanna join for a quick chat ⏱, tell me about a new and interesting project , or discuss business...💼
+### Feel free to Drop a 👋 on any of my socials, if you wanna join for a quick chat ⏱, tell me about a new and interesting project , or discuss business...💼
 ### I would be thrilled to cooperate. 🤝
 
 #### Looking to find the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://www.linkedin.com/in/camilo-sabogal-aristizabal/)
