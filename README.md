@@ -4,7 +4,7 @@
 **CamiloSaboA-csv/CamiloSaboA-csv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Software Developer | Trying to be a machine Learning Engennier | Continuous learner
+# Software Developer | Machine Learning Engennier | Continuous learner
 
 
 ![](https://komarev.com/ghpvc/?username=CamiloSaboA-csv&color=blue&style=plastic&label=VIEWS)
