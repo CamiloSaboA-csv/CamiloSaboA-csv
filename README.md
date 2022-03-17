@@ -13,7 +13,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiloSaboA-csv&show_icons=true&hide_title=true&theme=buefy&hide_border=true&count_private=true&hide=stars" alt="CamiloSaboA-csv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSaboA-csv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Software Developer, problem solver, with experience in the I.T. industry since 2020 providing solutions and value to clients and organizations.
+### Software Developer, problem solver, with experience in the I.T. industry since 2020.<!-- providing solutions and value to clients and organizations.-->
 
 #### Hello world, my name is Camilo Andrés Sabogal Aristizábal and I'm a Explorer of new technologies, lover of collaborative environments and communities with continuous growth. Convinced that success is achieved with interdisciplinary teams. In love and enthusiast of code, software development and hardware. 
 
